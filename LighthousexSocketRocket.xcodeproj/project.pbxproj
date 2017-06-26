@@ -135,38 +135,38 @@
 		094C111F1F00D58C00FB32C0 /* SRURLUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10961F00D58C00FB32C0 /* SRURLUtilities.m */; };
 		094C11201F00D58C00FB32C0 /* SRURLUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10961F00D58C00FB32C0 /* SRURLUtilities.m */; };
 		094C11211F00D58C00FB32C0 /* SRURLUtilities.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10961F00D58C00FB32C0 /* SRURLUtilities.m */; };
-		094C11221F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; };
-		094C11231F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; };
-		094C11241F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; };
-		094C11251F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; };
-		094C11261F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; };
-		094C11271F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; };
-		094C11281F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; };
-		094C11291F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; };
+		094C11221F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11231F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11241F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11251F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11261F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11271F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11281F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11291F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		094C112A1F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10991F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m */; };
 		094C112B1F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10991F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m */; };
 		094C112C1F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10991F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m */; };
 		094C112D1F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10991F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.m */; };
-		094C112E1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; };
-		094C112F1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; };
-		094C11301F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; };
-		094C11311F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; };
+		094C112E1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C112F1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11301F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11311F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109A1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		094C11321F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109B1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m */; };
 		094C11331F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109B1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m */; };
 		094C11341F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109B1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m */; };
 		094C11351F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109B1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.m */; };
-		094C11361F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; };
-		094C11371F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; };
-		094C11381F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; };
-		094C11391F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; };
+		094C11361F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11371F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11381F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11391F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C109E1F00D58C00FB32C0 /* SRSecurityPolicy.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		094C113A1F00D58C00FB32C0 /* SRSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109F1F00D58C00FB32C0 /* SRSecurityPolicy.m */; };
 		094C113B1F00D58C00FB32C0 /* SRSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109F1F00D58C00FB32C0 /* SRSecurityPolicy.m */; };
 		094C113C1F00D58C00FB32C0 /* SRSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109F1F00D58C00FB32C0 /* SRSecurityPolicy.m */; };
 		094C113D1F00D58C00FB32C0 /* SRSecurityPolicy.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C109F1F00D58C00FB32C0 /* SRSecurityPolicy.m */; };
-		094C113E1F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; };
-		094C113F1F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; };
-		094C11401F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; };
-		094C11411F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; };
+		094C113E1F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C113F1F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11401F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		094C11411F00D58C00FB32C0 /* SRWebSocket.h in Headers */ = {isa = PBXBuildFile; fileRef = 094C10A01F00D58C00FB32C0 /* SRWebSocket.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		094C11421F00D58C00FB32C0 /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10A11F00D58C00FB32C0 /* SRWebSocket.m */; };
 		094C11431F00D58C00FB32C0 /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10A11F00D58C00FB32C0 /* SRWebSocket.m */; };
 		094C11441F00D58C00FB32C0 /* SRWebSocket.m in Sources */ = {isa = PBXBuildFile; fileRef = 094C10A11F00D58C00FB32C0 /* SRWebSocket.m */; };
@@ -728,22 +728,22 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				094C112F1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
+				094C11271F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
+				094C11371F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
+				094C113F1F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
+				094C11231F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
 				094C10B31F00D58C00FB32C0 /* SRIOConsumerPool.h in Headers */,
 				094C10C31F00D58C00FB32C0 /* SRProxyConnect.h in Headers */,
 				094C10E31F00D58C00FB32C0 /* SRError.h in Headers */,
 				094C10BF1F00D58C00FB32C0 /* NSURLRequest+SRWebSocketPrivate.h in Headers */,
-				094C112F1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
 				094C111B1F00D58C00FB32C0 /* SRURLUtilities.h in Headers */,
 				094C10A31F00D58C00FB32C0 /* SRDelegateController.h in Headers */,
 				094C10CB1F00D58C00FB32C0 /* SRRunLoopThread.h in Headers */,
 				094C10FB1F00D58C00FB32C0 /* SRLog.h in Headers */,
 				094C10BB1F00D58C00FB32C0 /* NSRunLoop+SRWebSocketPrivate.h in Headers */,
-				094C11271F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
 				094C10AB1F00D58C00FB32C0 /* SRIOConsumer.h in Headers */,
-				094C11231F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
 				094C10F31F00D58C00FB32C0 /* SRHTTPConnectMessage.h in Headers */,
-				094C11371F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
-				094C113F1F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
 				094C11131F00D58C00FB32C0 /* SRSIMDHelpers.h in Headers */,
 				094C110B1F00D58C00FB32C0 /* SRRandom.h in Headers */,
 				094C10DB1F00D58C00FB32C0 /* SRConstants.h in Headers */,
@@ -757,22 +757,22 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				094C11311F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
+				094C11291F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
+				094C11251F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
+				094C11391F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
+				094C11411F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
 				094C10B51F00D58C00FB32C0 /* SRIOConsumerPool.h in Headers */,
 				094C10C51F00D58C00FB32C0 /* SRProxyConnect.h in Headers */,
 				094C10E51F00D58C00FB32C0 /* SRError.h in Headers */,
 				094C10C11F00D58C00FB32C0 /* NSURLRequest+SRWebSocketPrivate.h in Headers */,
-				094C11311F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
 				094C111D1F00D58C00FB32C0 /* SRURLUtilities.h in Headers */,
 				094C10A51F00D58C00FB32C0 /* SRDelegateController.h in Headers */,
 				094C10CD1F00D58C00FB32C0 /* SRRunLoopThread.h in Headers */,
 				094C10FD1F00D58C00FB32C0 /* SRLog.h in Headers */,
 				094C10BD1F00D58C00FB32C0 /* NSRunLoop+SRWebSocketPrivate.h in Headers */,
-				094C11291F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
 				094C10AD1F00D58C00FB32C0 /* SRIOConsumer.h in Headers */,
-				094C11251F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
 				094C10F51F00D58C00FB32C0 /* SRHTTPConnectMessage.h in Headers */,
-				094C11391F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
-				094C11411F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
 				094C11151F00D58C00FB32C0 /* SRSIMDHelpers.h in Headers */,
 				094C110D1F00D58C00FB32C0 /* SRRandom.h in Headers */,
 				094C10DD1F00D58C00FB32C0 /* SRConstants.h in Headers */,
@@ -786,22 +786,22 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				094C10B21F00D58C00FB32C0 /* SRIOConsumerPool.h in Headers */,
-				094C10C21F00D58C00FB32C0 /* SRProxyConnect.h in Headers */,
+				094C11361F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
+				094C11261F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
+				094C113E1F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
+				094C112E1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
+				094C11221F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
 				094C10E21F00D58C00FB32C0 /* SRError.h in Headers */,
 				094C10BE1F00D58C00FB32C0 /* NSURLRequest+SRWebSocketPrivate.h in Headers */,
-				094C112E1F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
 				094C111A1F00D58C00FB32C0 /* SRURLUtilities.h in Headers */,
 				094C10A21F00D58C00FB32C0 /* SRDelegateController.h in Headers */,
 				094C10CA1F00D58C00FB32C0 /* SRRunLoopThread.h in Headers */,
+				094C10C21F00D58C00FB32C0 /* SRProxyConnect.h in Headers */,
 				094C10FA1F00D58C00FB32C0 /* SRLog.h in Headers */,
 				094C10BA1F00D58C00FB32C0 /* NSRunLoop+SRWebSocketPrivate.h in Headers */,
-				094C11261F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
+				094C10B21F00D58C00FB32C0 /* SRIOConsumerPool.h in Headers */,
 				094C10AA1F00D58C00FB32C0 /* SRIOConsumer.h in Headers */,
-				094C11221F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
 				094C10F21F00D58C00FB32C0 /* SRHTTPConnectMessage.h in Headers */,
-				094C11361F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
-				094C113E1F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
 				094C11121F00D58C00FB32C0 /* SRSIMDHelpers.h in Headers */,
 				094C110A1F00D58C00FB32C0 /* SRRandom.h in Headers */,
 				094C10DA1F00D58C00FB32C0 /* SRConstants.h in Headers */,
@@ -815,22 +815,22 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				094C11301F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
+				094C11281F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
+				094C11381F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
+				094C11241F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
+				094C11401F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
 				094C10B41F00D58C00FB32C0 /* SRIOConsumerPool.h in Headers */,
 				094C10C41F00D58C00FB32C0 /* SRProxyConnect.h in Headers */,
 				094C10E41F00D58C00FB32C0 /* SRError.h in Headers */,
 				094C10C01F00D58C00FB32C0 /* NSURLRequest+SRWebSocketPrivate.h in Headers */,
-				094C11301F00D58C00FB32C0 /* NSURLRequest+SRWebSocket.h in Headers */,
 				094C111C1F00D58C00FB32C0 /* SRURLUtilities.h in Headers */,
 				094C10A41F00D58C00FB32C0 /* SRDelegateController.h in Headers */,
 				094C10CC1F00D58C00FB32C0 /* SRRunLoopThread.h in Headers */,
 				094C10FC1F00D58C00FB32C0 /* SRLog.h in Headers */,
 				094C10BC1F00D58C00FB32C0 /* NSRunLoop+SRWebSocketPrivate.h in Headers */,
-				094C11281F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h in Headers */,
 				094C10AC1F00D58C00FB32C0 /* SRIOConsumer.h in Headers */,
-				094C11241F00D58C00FB32C0 /* LighthousexSocketRocket.h in Headers */,
 				094C10F41F00D58C00FB32C0 /* SRHTTPConnectMessage.h in Headers */,
-				094C11381F00D58C00FB32C0 /* SRSecurityPolicy.h in Headers */,
-				094C11401F00D58C00FB32C0 /* SRWebSocket.h in Headers */,
 				094C11141F00D58C00FB32C0 /* SRSIMDHelpers.h in Headers */,
 				094C110C1F00D58C00FB32C0 /* SRRandom.h in Headers */,
 				094C10DC1F00D58C00FB32C0 /* SRConstants.h in Headers */,
