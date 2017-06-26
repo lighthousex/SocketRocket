@@ -13,4 +13,4 @@
 PRODUCT_NAME = SocketRocket
 PRODUCT_BUNDLE_IDENTIFIER = com.facebook.socketrocket.tvos
 
-INFOPLIST_FILE = $(SRCROOT)/SocketRocket/Resources/Info.plist
+INFOPLIST_FILE = $(SRCROOT)/LighthousexSocketRocket/Resources/Info.plist

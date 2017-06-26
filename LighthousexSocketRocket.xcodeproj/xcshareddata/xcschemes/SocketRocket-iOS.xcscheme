@@ -16,8 +16,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "81D6475F1D2CA78800690609"
                BuildableName = "SocketRocket.framework"
-               BlueprintName = "SocketRocket-iOS"
-               ReferencedContainer = "container:SocketRocket.xcodeproj">
+               BlueprintName = "LighthousexSocketRocket-iOS"
+               ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,8 +30,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F6BDA801145900D200FE3253"
                BuildableName = "SocketRocketTests-iOS.xctest"
-               BlueprintName = "SocketRocketTests-iOS"
-               ReferencedContainer = "container:SocketRocket.xcodeproj">
+               BlueprintName = "LighthousexSocketRocketTests-iOS"
+               ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -52,8 +52,8 @@
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "F6BDA801145900D200FE3253"
                      BuildableName = "SocketRocketTests-iOS.xctest"
-                     BlueprintName = "SocketRocketTests-iOS"
-                     ReferencedContainer = "container:SocketRocket.xcodeproj">
+                     BlueprintName = "LighthousexSocketRocketTests-iOS"
+                     ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -70,8 +70,8 @@
                      BuildableIdentifier = "primary"
                      BlueprintIdentifier = "F6BDA801145900D200FE3253"
                      BuildableName = "SocketRocketTests-iOS.xctest"
-                     BlueprintName = "SocketRocketTests-iOS"
-                     ReferencedContainer = "container:SocketRocket.xcodeproj">
+                     BlueprintName = "LighthousexSocketRocketTests-iOS"
+                     ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
                   </BuildableReference>
                </EnvironmentBuildable>
             </ActionContent>
@@ -84,8 +84,8 @@
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "F6BDA801145900D200FE3253"
                BuildableName = "SocketRocketTests-iOS.xctest"
-               BlueprintName = "SocketRocketTests-iOS"
-               ReferencedContainer = "container:SocketRocket.xcodeproj">
+               BlueprintName = "LighthousexSocketRocketTests-iOS"
+               ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -94,8 +94,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "81D6475F1D2CA78800690609"
             BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-iOS"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
+            BlueprintName = "LighthousexSocketRocket-iOS"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -116,8 +116,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "81D6475F1D2CA78800690609"
             BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-iOS"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
+            BlueprintName = "LighthousexSocketRocket-iOS"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -134,8 +134,8 @@
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "81D6475F1D2CA78800690609"
             BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-iOS"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
+            BlueprintName = "LighthousexSocketRocket-iOS"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </ProfileAction>

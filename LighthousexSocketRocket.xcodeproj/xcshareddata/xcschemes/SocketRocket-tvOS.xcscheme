@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2D4227611BB4358C000C1A6C"
+               BlueprintIdentifier = "3345DC821C52ACD70083CCB8"
                BuildableName = "SocketRocket.framework"
-               BlueprintName = "SocketRocket-iOS-Dynamic"
-               ReferencedContainer = "container:SocketRocket.xcodeproj">
+               BlueprintName = "LighthousexSocketRocket-tvOS"
+               ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -29,6 +29,15 @@
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "2D4227611BB4358C000C1A6C"
+            BuildableName = "SocketRocket.framework"
+            BlueprintName = "LighthousexSocketRocket-iOS-Dynamic"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -45,10 +54,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2D4227611BB4358C000C1A6C"
+            BlueprintIdentifier = "3345DC821C52ACD70083CCB8"
             BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-iOS-Dynamic"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
+            BlueprintName = "LighthousexSocketRocket-tvOS"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -60,15 +69,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "2D4227611BB4358C000C1A6C"
-            BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-iOS-Dynamic"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

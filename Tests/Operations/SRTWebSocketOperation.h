@@ -9,7 +9,7 @@
 // of patent rights can be found in the PATENTS file in the same directory.
 //
 
-#import <SocketRocket/SRWebSocket.h>
+#import <LighthousexSocketRocket/SRWebSocket.h>
 
 @interface SRTWebSocketOperation : NSOperation <SRWebSocketDelegate>
 

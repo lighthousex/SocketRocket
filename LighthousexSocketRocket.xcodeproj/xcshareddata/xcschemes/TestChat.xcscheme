@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F668C87F153E91210044DBAC"
-               BuildableName = "SocketRocket.framework"
-               BlueprintName = "SocketRocket-macOS"
-               ReferencedContainer = "container:SocketRocket.xcodeproj">
+               BlueprintIdentifier = "F62417E214D52F3C003CE997"
+               BuildableName = "TestChat.app"
+               BlueprintName = "TestChat"
+               ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -25,10 +25,19 @@
    <TestAction
       buildConfiguration = "Debug"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
-      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.GDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
       </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "F62417E214D52F3C003CE997"
+            BuildableName = "TestChat.app"
+            BlueprintName = "TestChat"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
       <AdditionalOptions>
       </AdditionalOptions>
    </TestAction>
@@ -42,16 +51,37 @@
       debugDocumentVersioning = "YES"
       debugServiceExtension = "internal"
       allowLocationSimulation = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F668C87F153E91210044DBAC"
-            BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-macOS"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
+            BlueprintIdentifier = "F62417E214D52F3C003CE997"
+            BuildableName = "TestChat.app"
+            BlueprintName = "TestChat"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
       <AdditionalOptions>
+         <AdditionalOption
+            key = "NSZombieEnabled"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
+         <AdditionalOption
+            key = "OBJC_PRINT_EXCEPTIONS"
+            value = "YES"
+            isEnabled = "YES">
+         </AdditionalOption>
+         <AdditionalOption
+            key = "MallocGuardEdges"
+            value = ""
+            isEnabled = "YES">
+         </AdditionalOption>
+         <AdditionalOption
+            key = "MallocScribble"
+            value = ""
+            isEnabled = "YES">
+         </AdditionalOption>
       </AdditionalOptions>
    </LaunchAction>
    <ProfileAction
@@ -60,15 +90,16 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
+      <BuildableProductRunnable
+         runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "F668C87F153E91210044DBAC"
-            BuildableName = "SocketRocket.framework"
-            BlueprintName = "SocketRocket-macOS"
-            ReferencedContainer = "container:SocketRocket.xcodeproj">
+            BlueprintIdentifier = "F62417E214D52F3C003CE997"
+            BuildableName = "TestChat.app"
+            BlueprintName = "TestChat"
+            ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
-      </MacroExpansion>
+      </BuildableProductRunnable>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">

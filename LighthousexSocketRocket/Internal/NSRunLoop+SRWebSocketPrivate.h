@@ -7,16 +7,7 @@
 // of patent rights can be found in the PATENTS file in the same directory.
 //
 
-#import <Foundation/Foundation.h>
+#import <LighthousexSocketRocket/NSRunLoop+SRWebSocket.h>
 
-#import <SocketRocket/SRSecurityPolicy.h>
-
-NS_ASSUME_NONNULL_BEGIN
-
-@interface SRPinningSecurityPolicy : SRSecurityPolicy
-
-- (instancetype)initWithCertificates:(NSArray *)pinnedCertificates;
-
-@end
-
-NS_ASSUME_NONNULL_END
+// Empty function that force links the object file for the category.
+extern void import_NSRunLoop_SRWebSocket(void);

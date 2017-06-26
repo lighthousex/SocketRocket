@@ -7,7 +7,16 @@
 // of patent rights can be found in the PATENTS file in the same directory.
 //
 
-#import <SocketRocket/NSURLRequest+SRWebSocket.h>
+#import <Foundation/Foundation.h>
 
-// Empty function that force links the object file for the category.
-extern void import_NSURLRequest_SRWebSocket(void);
+#import <LighthousexSocketRocket/SRSecurityPolicy.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface SRPinningSecurityPolicy : SRSecurityPolicy
+
+- (instancetype)initWithCertificates:(NSArray *)pinnedCertificates;
+
+@end
+
+NS_ASSUME_NONNULL_END

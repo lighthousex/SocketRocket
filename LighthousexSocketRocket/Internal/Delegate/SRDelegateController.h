@@ -9,7 +9,7 @@
 
 #import <Foundation/Foundation.h>
 
-#import <SocketRocket/SRWebSocket.h>
+#import <LighthousexSocketRocket/SRWebSocket.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
