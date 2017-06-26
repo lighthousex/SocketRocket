@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "3345DC821C52ACD70083CCB8"
-               BuildableName = "SocketRocket.framework"
+               BuildableName = "LighthousexSocketRocket.framework"
                BlueprintName = "LighthousexSocketRocket-tvOS"
                ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "2D4227611BB4358C000C1A6C"
-            BuildableName = "SocketRocket.framework"
+            BuildableName = "LighthousexSocketRocket.framework"
             BlueprintName = "LighthousexSocketRocket-iOS-Dynamic"
             ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
@@ -55,7 +55,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "3345DC821C52ACD70083CCB8"
-            BuildableName = "SocketRocket.framework"
+            BuildableName = "LighthousexSocketRocket.framework"
             BlueprintName = "LighthousexSocketRocket-tvOS"
             ReferencedContainer = "container:LighthousexSocketRocket.xcodeproj">
          </BuildableReference>
