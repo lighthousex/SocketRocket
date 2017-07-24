@@ -9,6 +9,12 @@
 // of patent rights can be found in the PATENTS file in the same directory.
 //
 
+//! Project version number for LighthousexSocketRocket.
+FOUNDATION_EXPORT double LighthousexSocketRocketVersionNumber;
+
+//! Project version string for LighthousexSocketRocket.
+FOUNDATION_EXPORT const unsigned char LighthousexSocketRocketVersionString[];
+
 #import <LighthousexSocketRocket/NSRunLoop+SRWebSocket.h>
 #import <LighthousexSocketRocket/NSURLRequest+SRWebSocket.h>
 #import <LighthousexSocketRocket/SRSecurityPolicy.h>

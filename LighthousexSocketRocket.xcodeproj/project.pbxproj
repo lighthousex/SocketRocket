@@ -291,6 +291,7 @@
 		094C109F1F00D58C00FB32C0 /* SRSecurityPolicy.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRSecurityPolicy.m; sourceTree = "<group>"; };
 		094C10A01F00D58C00FB32C0 /* SRWebSocket.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SRWebSocket.h; sourceTree = "<group>"; };
 		094C10A11F00D58C00FB32C0 /* SRWebSocket.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SRWebSocket.m; sourceTree = "<group>"; };
+		09DA2B0C1F26B4CA009E040B /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		2D4227621BB4358C000C1A6C /* LighthousexSocketRocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LighthousexSocketRocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3345DC901C52ACD70083CCB8 /* LighthousexSocketRocket.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LighthousexSocketRocket.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8105E4761CDD679A00AA12DB /* SRTWebSocketOperation.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = SRTWebSocketOperation.h; sourceTree = "<group>"; };
@@ -420,6 +421,7 @@
 		094C106F1F00D58C00FB32C0 /* LighthousexSocketRocket */ = {
 			isa = PBXGroup;
 			children = (
+				09DA2B0C1F26B4CA009E040B /* Info.plist */,
 				094C10701F00D58C00FB32C0 /* Internal */,
 				094C10971F00D58C00FB32C0 /* LighthousexSocketRocket.h */,
 				094C10981F00D58C00FB32C0 /* NSRunLoop+SRWebSocket.h */,
