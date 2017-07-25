@@ -8,7 +8,8 @@
 // LICENSE file in the root directory of this source tree. An additional grant
 // of patent rights can be found in the PATENTS file in the same directory.
 //
-
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
 //! Project version number for LighthousexSocketRocket.
 FOUNDATION_EXPORT double LighthousexSocketRocketVersionNumber;
 
