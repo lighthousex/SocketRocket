@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name               = 'LighthousexSocketRocket'
-  s.version            = '0.5.10'
+  s.version            = '0.5.11'
   s.summary            = 'A conforming WebSocket (RFC 6455) client library for iOS, macOS and tvOS.'
   s.homepage           = 'https://github.com/lighthousex/SocketRocket'
   s.authors            = { 'Nikita Lutsenko' => 'nlutsenko@me.com', 'Dan Federman' => 'federman@squareup.com', 'Mike Lewis' => 'mikelikespie@gmail.com' }
